@@ -2,16 +2,21 @@
 This provides a data driven approach to determine how to provide a bonus and incentive to healthy employees. You will also develop a database, SQL queries to answer questions and build a dashboard which meets a wireframe specification
 # Here's a breakdown of the steps involved,
 1. Data Acquisition and Preparation:
+   ````
   Import employee data into a SQL Server database.
   Clean and transform the data to ensure consistency and accuracy.
   Join multiple tables to create a comprehensive dataset.
-2. Data Analysis and Querying:
+  ````
+3. Data Analysis and Querying:
+````
 Write SQL queries to:
   Identify healthy employees based on criteria like BMI, smoking, and drinking habits.
   Calculate the total wage increase for non-smokers.
   Analyze absenteeism trends by month, day of the week, and season.
 Explore correlations between factors like workload, transportation expenses, and absenteeism.
-3. Data Visualization:
+````
+4. Data Visualization:
+   ````
   Create a dashboard in Power BI to visualize the analysis results.
   Design a clear and intuitive dashboard layout, following a wireframe.
   Utilize various visualizations, including:
@@ -19,6 +24,8 @@ Explore correlations between factors like workload, transportation expenses, and
   Charts to show trends and distributions (e.g., line charts, bar charts, pie charts)
   Tables to display detailed data
   Interactive elements to allow users to filter and explore data
+  ````
+  ![image](https://github.com/user-attachments/assets/2f2cc332-ddaf-4fbb-9add-bba3f2360b64)
 
 5. Insights and Recommendations:
   Present actionable insights to HR based on the analysis.
